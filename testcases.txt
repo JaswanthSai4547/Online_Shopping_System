@@ -1,0 +1,355 @@
+/usr/lib/jvm/java-1.11.0-openjdk-amd64/bin/java -javaagent:/u/idea/lib/idea_rt.jar=38147:/u/idea/bin -Dfile.encoding=UTF-8 -classpath /home/ee213130/IdeaProjects/Online_Shopping_System/out/production/Online_Shopping_System Online_shopping_System.Main
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+0
+customer id:
+1
+Name:
+jasu
+Email:
+jasu@sai
+Address:
+domlur
+Bank Balance:
+1234.99
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+0
+customer id:
+2
+Name:
+sai
+Email:
+sai@jasu
+Address:
+banglore
+Bank Balance:
+9989.88
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+2
+product name:
+product1
+product description:
+description1
+price:
+25
+quantity
+30
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+2
+product name:
+product2
+product description:
+description2
+price:
+50
+quantity
+30
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+1
+--------------------------
+ID : 1001
+NAME : product1
+DESCRIPTION : description1
+PRICE : 25.0
+QUANTITY : 30
+--------------------------
+--------------------------
+ID : 1002
+NAME : product2
+DESCRIPTION : description2
+PRICE : 50.0
+QUANTITY : 30
+--------------------------
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+3
+enter product id:
+1001
+enter quantity:
+10
+successfully updated
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+4
+enter customer id:
+1001
+customer id not found
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+4
+enter customer id:
+1
+product id:
+1001
+Quantity:
+5
+product added to cart
+ product_id :-1001quantity :-5
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+4
+enter customer id:
+1
+product id:
+1002
+Quantity:
+4
+product added to cart
+ product_id :-1002quantity :-4
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+5
+enter customer id:
+1
+--------------------
+Product Id=1001
+Quantity =5
+--------------------
+--------------------
+Product Id=1002
+Quantity =4
+--------------------
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+7
+enter Customer id:
+1001
+customer not exist
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+7
+enter Customer id:
+1
+cart total : 325.0
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+8
+enter Customer id:
+1
+Bank Balance = 1234.99/-
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+9
+enter product id :
+1002
+--------------------------
+ID : 1002
+NAME : product2
+DESCRIPTION : description2
+PRICE : 50.0
+QUANTITY : 30
+--------------------------
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+6
+6
+enter Customer id:
+customer not exist
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+6
+enter Customer id:
+1
+Product Id = 1001
+  Quantity =5
+Product Id = 1002
+  Quantity =4
+balance = 909.99/-
+successfully checkout
+Cart Cleared
+************************************
+0.create Customer
+1.print the product catalog
+2.add a product
+3.load stock of a product
+4.add product to the cart
+5.print Cart
+6.checkout cart
+7.display the total price of cart
+8.print bank balance
+9.print details of product
+10.exit
+***********************************
+10
+
+Process finished with exit code 0
